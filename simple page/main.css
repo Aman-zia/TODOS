@@ -1,0 +1,25 @@
+.tb1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 14;
+    font-weight: bold;
+
+}
+
+.leftbox { 
+    float:left;
+    width:20%; 
+    height:280px; 
+} 
+.middlebox{ 
+    float:left;  
+    background:Green; 
+    width:50%; 
+    height:280px; 
+} 
+.rightbox{ 
+    float:right; 
+    background:blue; 
+    width:30%; 
+    height:280px; 
+} 

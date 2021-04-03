@@ -1,0 +1,197 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    background-color: hsl(30deg 14% 97%);
+}
+
+.png
+{
+    position: absolute;
+    left: 30px;
+    top: 46px;
+}
+
+.bel
+{
+    display: flex;
+    position: absolute;
+    right: 75px;
+    top: 45px;
+
+     
+     
+}
+.dos
+{
+    top: 10px;
+    right: 10px; 
+    padding: 40px 0 0 0px;
+}
+.sea
+{
+    position: absolute;
+    right: 30px;
+    top: 46px
+}
+
+.na
+{
+    display: flex;
+    background-color: hsl(30deg 14% 97%);
+    height: 100%;
+    color: #f96228;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.ult{
+    background-color:hsl(30deg 14% 97%) ;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+    overflow: scroll;
+    padding: 0 0 0 30px;
+    
+}
+
+.lit
+    {
+        
+flex: 0 0 150px;
+        
+
+        
+padding:0px;
+        
+background: #FFF;
+        
+text-align: center;
+        
+margin: 0px 10px 0 0;
+        
+color: #000;
+        
+text-decoration: none;
+        
+padding: 10px 20px;
+        
+border-radius: 5px;
+}
+
+.lit:hover
+      {
+       background-color:#f96228;
+       color: #fff;
+       
+       
+      }
+
+
+.ask
+    {
+       
+
+        background-color: hsl(30deg 14% 97%);
+    margin: 0%;
+    color:  hsla(234, 5%, 59%, 1);
+    display: inline-table;
+    align-items: inherit;
+    padding: 0 0 0 13px;
+       
+       
+    }
+
+    .pic
+    {
+        background-color:#acacac17 ;
+        margin: 0%;
+
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;   
+    }
+
+.container{
+  
+
+    
+    width: calc(100% - 40px);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    
+    padding: 0 20px;
+  }
+
+.leftbox { 
+   
+    margin-right: 15px;
+} 
+.middlebox{ 
+    
+     flex: 1;
+} 
+
+.img_b
+{
+    border-radius: 20%;
+    height: 70px;
+    width: 70px;
+  
+}
+
+.wb
+      {
+          display: inline;
+      }
+
+.ww
+{
+    color:  hsla(234, 5%, 59%, 1);
+}
+
+.img2
+{
+margin-left: -91px;
+    margin-top: -35px;
+}
+
+
+.ft
+{
+    width: 100%;
+    margin: 0%;
+    padding: 9px 0 0 0px;
+    background-color: #f9f8f7;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    text-align: center;
+    position: relative;
+}
+
+.fg
+{
+    margin: 0;
+    padding: 0;
+    color: hsla(234, 5%, 59%, 1);
+}
+
+ul
+{
+    padding: 0px;
+   
+}
+.ig{
+    position: absolute;
+    left: 48%;
+    bottom: 70%;
+    transform: translate(-50%,-50%);
+}
+b{
+    font-family: sans-serif;
+}
